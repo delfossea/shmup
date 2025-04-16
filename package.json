@@ -1,0 +1,14 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "description": "shmup",
+  "main": "shell_server.js",
+  "scripts": {
+    "test": "nodejs shell_server.js"
+  },
+  "keywords": [
+    "GAME"
+  ],
+  "author": "Arnaud DELFOSSE",
+  "license": "MIT"
+}
