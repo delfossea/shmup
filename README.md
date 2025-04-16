@@ -4,3 +4,6 @@
 
 Tutorial:
 http://kidscancode.org/godot_recipes/4.x/games/first_2d/
+
+on the web:
+https://www.delfosse-telecom.fr/game/classic
