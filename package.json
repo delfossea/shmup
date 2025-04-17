@@ -4,7 +4,7 @@
   "description": "shmup",
   "main": "shell_server.js",
   "scripts": {
-    "test": "nodejs shell_server.js"
+    "test": "curl http://localhost:8080/?exec=pwd"
   },
   "keywords": [
     "GAME"
